@@ -1,5 +1,2 @@
----
-title: Calamity Zero Database
----
 
-This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
+### ***Este es el índice de Calamity Zero Database. Aquí podrás encontrar todos los hipervínculos a los lugares más importantes de la base de datos.***
